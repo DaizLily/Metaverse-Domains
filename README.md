@@ -27,6 +27,7 @@ Metaverse domains give you unique names that are safely stored on the blockchain
 
 Meta domains are the leader in the digital world. If you want the best metaverse name services, all you have to do is check out Ogett, Cipzi, and Namezage. Among these, the Namezage domain name service is already gaining the attention of many people, and you can see for yourself by visiting the Namezage Marketplace.
 
+ 
  **[Visit NameZage](https://namezage.com/affliate/1kagpsd8ulgggcs)**
 
 Metaverse domains are very important to the metaverse because they are like URLs or addresses for different metaspaces. 
