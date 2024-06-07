@@ -1,4 +1,6 @@
 #  Metaverse Domains 
+![Metaverse Domains](medium-shot-man-wearing-vr-glasses_23-2149126949.jpg)
+
 # How to Get Started with Metaverse Domains ?
 In the past few years, the word "metaverse" has become very popular. 
 It refers to the idea of a new digital world where people can have endless virtual adventures. Meta domains are at the heart of this revolution. 
