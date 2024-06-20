@@ -6,8 +6,9 @@ In the past few years, the word "metaverse" has become very popular.
 It refers to the idea of a new digital world where people can have endless virtual adventures. Meta domains are at the heart of this revolution. 
 They are the digital keys that open the doors to these huge digital worlds. But what are meta domains, and why do you need to know about them? Let's make it easy to understand.
 
-##  What are Meta Domains?
-Think of meta domains as the addresses or URLs for different virtual spaces within the metaverse. 
+##  What are Metaverse Domains?
+Think of metaverse domains as the addresses or URLs for different virtual spaces within the metaverse. 
+
 Just like how you type in a web address to visit a website on the internet, you use meta domains to navigate through various virtual places in the metaverse. 
 These domains are unique, and securely recorded on the blockchain, ensuring verifiable ownership and control by the user.
 
