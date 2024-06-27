@@ -1,4 +1,4 @@
-#  What exactly are metaverse domains?
+#  Metaverse Domains
 ![Metaverse Domains](medium-shot-man-wearing-vr-glasses_23-2149126949.jpg)
 
 ##  How to Get Started with Metaverse Domains ?
