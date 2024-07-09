@@ -297,5 +297,9 @@ Ideal for decentralized platforms and blockchain-based projects.
 
 Each extension serves a different purpose, catering to various needs within the metaverse and helping users identify the nature of different virtual spaces.
 
+### What devices are Metaverse domains compatible with?
+
+Metaverse domains are designed for use with advanced VR/AR devices like the Apple Vision Pro, as well as traditional devices such as Windows or Mac computers, and iOS or Android smartphones.
+
 
 
